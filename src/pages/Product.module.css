@@ -1,0 +1,68 @@
+.same {
+    background-color: #C58940;
+    border-radius: 17px;
+    padding: .5rem 1.3rem;
+    margin: 1rem 1.3rem;
+}
+
+.same img {
+    height: 90px;
+    width: 250px;
+}
+
+.same p {
+    color:#3C2317;
+    font-weight: bold;
+}
+
+.same span {
+    color:#E6B325;
+    font-weight: bold;
+    padding-right: 1rem;
+}
+
+.same button {
+    font-size: 2rem;
+    background-color: #F2D388;
+    color:#8E3200;
+    border-radius: 13px;
+    border: 1px solid #A64B2A;
+}
+
+a {
+    text-decoration: none;
+}
+
+.active {
+    background-color: #B09B71;
+}
+
+
+
+
+.cle img {
+    width: 25%;
+    height: 17%;
+    padding: 1.9rem;
+}
+
+.cle h2 {
+    color:#495E57;
+    margin-bottom: 1rem;
+}
+
+.cle p {
+    color:#495E57;
+    margin-bottom: 1rem;
+    padding: 1rem 9rem;
+}
+
+.cle span {
+    color:#0C356A;
+    border: 3px dashed #FF4B91;
+    background-color: #FF7676;
+    color:#0802A3;
+    padding: 1rem 5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}

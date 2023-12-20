@@ -1,0 +1,44 @@
+{
+    "coffee": [
+    {
+        "id": 1,
+        "benefit": "coffee drinking has beneficial effects on the liver"
+    },
+    {
+        "id": 2,
+        "benefit": " drinking one or more daily cups of plain, caffeinated coffee was associated with a significant reduction in a person's long-term risk of heart failure"
+    },
+    {
+        "id": 3,
+        "benefit": "coffee beans are called 'beans because of their resemblance to legumes"
+    },
+    {
+        "id": 4,
+        "benefit": "Brazil grows the most coffee in the world"
+    },
+    {
+        "id": 5,
+        "benefit": "Finland is home to most coffee lovers"
+    },
+    {
+        "id": 7,
+        "benefit": "espresso means pressed out in Italian"
+    },
+    {
+        "id": 9,
+        "benefit": "largest coffee cup is 9-ft tall"
+    },
+    {
+        "id": 10,
+        "benefit": "the word coffee derived from Arabic word for wine"
+    },
+    {
+        "id": 11,
+        "benefit": "one cup of black coffee only has one calorie"
+    },
+    {
+        "id": 12,
+        "benefit": "ground coffee are natural skin exfoliators"
+    }
+]
+}

@@ -1,0 +1,161 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: .5rem;
+  text-align: center;
+  background-color: #6B240C;
+  border-radius: 25px;
+}
+
+.home {
+  background-color: #F3B664;
+  border-radius: 15px;
+  padding: 3.5rem 1rem;
+}
+
+.home img {
+  border-radius: 50%;
+  height: 30%;
+  width: 50%;
+}
+
+.home p {
+  font-size: 2rem;
+  color:#994D1C;
+  font-weight: bold;
+}
+
+.home a input {
+  font-size: large;
+  background-color:#3F2305;
+}
+
+.active {
+  color:#E9B824;
+}
+
+
+.login h1 {
+  color:#FFC436;
+  font-size: 1.7rem;
+}
+
+.login img {
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 110px;
+  border-bottom-right-radius: 110px;
+  height: 11rem;
+  width: 20rem;
+  padding: 2rem;
+}
+
+.login span {
+  font-style: italic;
+  font-size: 2.5rem;
+  display: flex;
+  color:#FF8400;
+  font-weight: bold;
+}
+
+.login form label {
+  display: block;
+  color:#83764F;
+  font-weight: bold;
+  padding: .5rem;
+}
+
+.login form input {
+  padding: .5rem 2rem;
+  background-color: #FFA33C;
+  border-radius: 15px;
+  outline-color:#F4CE14;
+  border: 1px solid #FFC436;
+  font-size: large;
+  font-style: italic;
+}
+
+.login button {
+  background-color:#1A120B;
+  color: #FF6E31;
+  display: flex;
+  justify-content: center;
+  padding: .7rem 7rem;
+  text-align: center;
+  border: 1px solid #E4C988;
+  border-radius: 15px;
+  margin: 1rem 7rem;
+}
+
+
+.detcup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.detcup img {
+  height: 45%;
+  width: 20%;
+  padding: 5rem;
+}
+
+.detcup input {
+  padding: .5rem 1.7rem;
+  font-size: small;
+  color:#EE9322;
+  margin-bottom: 3rem;
+  margin-right: 2rem;
+}
+
+.detcup label {
+  padding: .5rem 3rem;
+  font-size: large;
+  color:#D83F31;
+  margin-bottom: 3rem;
+  border: 3px solid #D2DE32;
+  background-color: #FEFFAC;
+  border-radius: 35%;
+}
+
+.active {
+  background-color: #B09B71;
+}
+
+
+/* 
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
